@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sharp-matrix-teaser.lovable.app">
+  <a href="https://sharp-matrix.com/">
     <img src="https://raw.githubusercontent.com/gca-global/.github/main/brand/logo-blue.png" alt="Sharp Matrix" width="400" />
   </a>
 </p>
@@ -80,7 +80,7 @@ CDL + SSO (Supabase)  ◄──►  Databricks / MLS / Portals
 
 <p align="center">
   <strong>G.C.A.</strong> · <strong>Sharp Matrix</strong><br />
-  <a href="https://sharp-matrix-teaser.lovable.app">sharp-matrix-teaser.lovable.app</a>
+  <a href="https://sharp-matrix.com/">sharp-matrix.com</a>
   ·
   <a href="https://sharpsir.group">sharpsir.group</a>
 </p>

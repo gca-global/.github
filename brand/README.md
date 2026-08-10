@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/gca-global/.github/main/brand/FILENAME
 
 ```html
 <p align="center">
-  <a href="https://sharp-matrix-teaser.lovable.app">
+  <a href="https://sharp-matrix.com/">
     <img src="https://raw.githubusercontent.com/gca-global/.github/main/brand/logo-blue.png" alt="Sharp Matrix" width="400" />
   </a>
 </p>
