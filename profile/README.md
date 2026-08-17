@@ -68,13 +68,13 @@ CDL + SSO (Supabase)  ◄──►  Databricks / MLS / Portals
 | **[Qobrix CRM MCP OAuth](https://github.com/gca-global/qobrix-crm-mcp-oauth)** | Proprietary OAuth 2.1 Authorization Server companion for Modes C/D. *(private)* |
 | **[Xero MCP Server](https://github.com/gca-global/sharpsir-xero-mcp-server)** | Private MCP server for Xero accounting — Matrix finance integrations. *(private)* |
 | **[Matrix ITSM](https://github.com/gca-global/matrix-itsm)** | IT service desk, CMDB, assets, MCP — Lovable-managed Matrix app. *(private)* |
+| **[Matrix Platform KB](https://github.com/gca-global/matrix-platform-kb)** | Platform knowledge base — architecture, data models, processes. *(public; `sharpsir-group/matrix-platform-kb` redirects here)* |
 
 **Sister open-source** (under [`sharpsir-group`](https://github.com/sharpsir-group) — not hosted here):
 
 | Project | Description |
 |---|---|
 | **[MLS 2.0 Pipeline](https://github.com/sharpsir-group/mls_2_0)** | Databricks ETL + RESO Web API for MLS ingestion |
-| **[Matrix Platform KB](https://github.com/sharpsir-group/matrix-platform-kb)** | Platform knowledge base — architecture, data models, processes |
 | **[GitHub Watcher](https://github.com/sharpsir-group/github-watcher)** | Webhook auto-deploy for Matrix apps |
 
 ---
