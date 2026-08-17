@@ -67,6 +67,7 @@ CDL + SSO (Supabase)  ◄──►  Databricks / MLS / Portals
 | **[Qobrix CRM MCP](https://github.com/gca-global/qobrix-crm-mcp)** | Open-source read-only MCP for Qobrix CRM — RESO DD 2.0–aligned tools; **Claude.ai** and **Dust.tt** Mode D remote connectors |
 | **[Qobrix CRM MCP OAuth](https://github.com/gca-global/qobrix-crm-mcp-oauth)** | Proprietary OAuth 2.1 Authorization Server companion for Modes C/D. *(private)* |
 | **[Xero MCP Server](https://github.com/gca-global/sharpsir-xero-mcp-server)** | Private MCP server for Xero accounting — Matrix finance integrations. *(private)* |
+| **[Matrix ITSM](https://github.com/gca-global/matrix-itsm)** | IT service desk, CMDB, assets, MCP — Lovable-managed Matrix app. *(private)* |
 
 **Sister open-source** (under [`sharpsir-group`](https://github.com/sharpsir-group) — not hosted here):
 
