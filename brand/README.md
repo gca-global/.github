@@ -20,7 +20,7 @@ Same Sharp SIR visual marks as used across the platform (copied for this org hom
 Reference via raw URL:
 
 ```
-https://raw.githubusercontent.com/gca-global/.github/main/brand/FILENAME
+https://raw.githubusercontent.com/gca-ltd/.github/main/brand/FILENAME
 ```
 
 ### Primary logo (works everywhere)
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/gca-global/.github/main/brand/FILENAME
 ```html
 <p align="center">
   <a href="https://sharp-matrix.com/">
-    <img src="https://raw.githubusercontent.com/gca-global/.github/main/brand/logo-blue.png" alt="Sharp Matrix" width="400" />
+    <img src="https://raw.githubusercontent.com/gca-ltd/.github/main/brand/logo-blue.png" alt="Sharp Matrix" width="400" />
   </a>
 </p>
 ```

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sharp-matrix.com/">
-    <img src="https://raw.githubusercontent.com/gca-global/.github/main/brand/logo-blue.png" alt="Sharp Matrix" width="400" />
+    <img src="https://raw.githubusercontent.com/gca-ltd/.github/main/brand/logo-blue.png" alt="Sharp Matrix" width="400" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 |---|---|
 | **Sharp Matrix** | The technology platform — multi-app client OS, CDL, SSO, AI/MCP |
 | **Sharp SIR** | The brokerage — Sharp Sotheby's International Realty (operations & brand) |
-| **G.C.A.** | Legal and tech home for Sharp Matrix repositories ([G.C.A. GLOBAL CITIZEN ADVISORY LTD](https://github.com/gca-global)) |
+| **G.C.A.** | Legal and tech home for Sharp Matrix repositories ([G.C.A. GLOBAL CITIZEN ADVISORY LTD](https://github.com/gca-ltd)) |
 
 This org hosts Matrix product and integration repos, including open-source MCP servers. Additional platform work also lives under [`sharpsir-group`](https://github.com/sharpsir-group).
 
@@ -64,11 +64,11 @@ CDL + SSO (Supabase)  ◄──►  Databricks / MLS / Portals
 
 | Project | Description |
 |---|---|
-| **[Qobrix CRM MCP](https://github.com/gca-global/qobrix-crm-mcp)** | Open-source read-only MCP for Qobrix CRM — RESO DD 2.0–aligned tools; **Claude.ai** and **Dust.tt** Mode D remote connectors |
-| **[Qobrix CRM MCP OAuth](https://github.com/gca-global/qobrix-crm-mcp-oauth)** | Proprietary OAuth 2.1 Authorization Server companion for Modes C/D. *(private)* |
-| **[Xero MCP Server](https://github.com/gca-global/sharpsir-xero-mcp-server)** | Private MCP server for Xero accounting — Matrix finance integrations. *(private)* |
-| **[Matrix ITSM](https://github.com/gca-global/matrix-itsm)** | IT service desk, CMDB, assets, MCP — Lovable-managed Matrix app. *(private)* |
-| **[Matrix Platform KB](https://github.com/gca-global/matrix-platform-kb)** | Platform knowledge base — architecture, data models, processes. *(public; `sharpsir-group/matrix-platform-kb` redirects here)* |
+| **[Qobrix CRM MCP](https://github.com/gca-ltd/qobrix-crm-mcp)** | Open-source read-only MCP for Qobrix CRM — RESO DD 2.0–aligned tools; **Claude.ai** and **Dust.tt** Mode D remote connectors |
+| **[Qobrix CRM MCP OAuth](https://github.com/gca-ltd/qobrix-crm-mcp-oauth)** | Proprietary OAuth 2.1 Authorization Server companion for Modes C/D. *(private)* |
+| **[Xero MCP Server](https://github.com/gca-ltd/sharpsir-xero-mcp-server)** | Private MCP server for Xero accounting — Matrix finance integrations. *(private)* |
+| **[Matrix ITSM](https://github.com/gca-ltd/matrix-itsm)** | IT service desk, CMDB, assets, MCP — Lovable-managed Matrix app. *(private)* |
+| **[Matrix Platform KB](https://github.com/gca-ltd/matrix-platform-kb)** | Platform knowledge base — architecture, data models, processes. *(public; `sharpsir-group/matrix-platform-kb` redirects here)* |
 
 **Sister open-source** (under [`sharpsir-group`](https://github.com/sharpsir-group) — not hosted here):
 
